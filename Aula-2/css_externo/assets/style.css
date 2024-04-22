@@ -1,0 +1,18 @@
+h1{
+    color: crimson;
+}
+
+.container{
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    background-color: cornflowerblue;
+    color: black;
+    border: 5px solid purple;
+    
+    margin: 20px;
+}
+
+#span-first{
+    color: darkmagenta;
+}
